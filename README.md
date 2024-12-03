@@ -1,5 +1,4 @@
+## Section 1
 This is a repo for git!
 
-```R
-library(tidyverse)
-```
+## Section 2
